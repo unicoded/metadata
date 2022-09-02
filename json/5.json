@@ -1,1 +1,6 @@
-{"name":"Unicode #64108: 𤋮","description":"#64108 is apart of Unicodes, an NFT Collection potent with all the Unicodes of the world. the printable ones atleast.","image":"ipfs://bafybeicbu5tts4opffcui6gwptwf3p34f3wtwb4fshuv3wyhkzpok2shcu/64108.png","attributes":{"decimal":64108,"position":"fa6c"}}
+{
+  "name": "Unicode #926: Ξ",
+  "description": "#926 is apart of Unicodes, an NFT Collection potent with all the Unicodes of the world. the printable ones atleast.",
+  "image": "ipfs://bafybeicbu5tts4opffcui6gwptwf3p34f3wtwb4fshuv3wyhkzpok2shcu/926.png",
+  "attributes": { "decimal": 926, "position": "039e" }
+}

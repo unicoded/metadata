@@ -1,1 +1,6 @@
-{"name":"Unicode #945: α","description":"#945 is apart of Unicodes, an NFT Collection potent with all the Unicodes of the world. the printable ones atleast.","image":"ipfs://bafybeicbu5tts4opffcui6gwptwf3p34f3wtwb4fshuv3wyhkzpok2shcu/945.png","attributes":{"decimal":945,"position":"03b1"}}
+{
+  "name": "Unicode #64676: ﲤ",
+  "description": "#64676 is apart of Unicodes, an NFT Collection potent with all the Unicodes of the world. the printable ones atleast.",
+  "image": "ipfs://bafybeicbu5tts4opffcui6gwptwf3p34f3wtwb4fshuv3wyhkzpok2shcu/64676.png",
+  "attributes": { "decimal": 64676, "position": "fca4" }
+}
